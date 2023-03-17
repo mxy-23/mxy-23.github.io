@@ -1,3 +1,1 @@
-POWERMODE.colorful = true; // make power mode colorful
-POWERMODE.shake = false; // turn off shake
-document.body.addEventListener('input', POWERMODE);
+POWERMODE.colorful=!0,POWERMODE.shake=!1,document.body.addEventListener("input",POWERMODE);
